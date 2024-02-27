@@ -268,7 +268,7 @@ function makeReadableWebSocketStream(webSocketServer, earlyDataHeader, log) {
 }
 
 // https://xtls.github.io/development/protocols/vless.html
-// https://github.com/zizifn/excalidraw-backup/blob/main/v2ray-protocol.excalidraw
+// https://github.com/SeyedFoad/worker/blob/main/worker.js
 
 /**
  * 
